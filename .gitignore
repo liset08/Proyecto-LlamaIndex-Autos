@@ -1,0 +1,12 @@
+# Variables de entorno (claves reales)
+.env
+
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
